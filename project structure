@@ -1,0 +1,11 @@
+student-teacher-booking/
+├── backend/
+│   ├── server.js
+│   └── models/
+│       └── Appointment.js
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   └── components/
+│   │       ├── BookingForm.js
+│   │       └── AppointmentList.js
